@@ -1,7 +1,7 @@
 <template>
   <div class="ui menu top-header">
       <router-link :to="{ name: 'Main'}" class="header item">
-        WeiCards &nbsp;<i class="far fa-address-card"></i>
+        Librera Aude &nbsp;<i class="far fa-address-card"></i>
       </router-link>
       <div class="right menu">
         <div class="item">
